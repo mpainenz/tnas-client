@@ -29,6 +29,7 @@ For Windows users:
 
 # Usage
 
-For a basic example, look at the [example.py](example.py) script. 
-Simply change the Username, Password, and Carrier ID fields to something valid, and the script should allow you to connect to TNAS
+For a basic example, look at the [example.py](example.py) script.
+
+Simply change the Username, Password, and Carrier ID fields to something valid, and run the script to connect to TNAS
 
