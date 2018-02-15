@@ -5,6 +5,8 @@ TNAS is used for Toll Free Number Portability in New Zealand.
 
 This library requires no third-party libraries, and supports TLS1.2 SSL. 
 
+Currently this library only supports the Login functionality. If there is interest, I will look at adding other functions as required.
+
 # Example code
 
 In order to make things simple for those who aren't familiar with Programming, most of the more complicated code is wrapped inside a class called TNASConnection. You use this class to connect and run commands against TNAS. This means connecting to TNAS can be done in only three lines of code.
@@ -27,4 +29,5 @@ For Windows users:
 
 # Usage
 
-Take a look at the [example.py](example.py) file 
+For a basic example, look at the [example.py](example.py).
+
