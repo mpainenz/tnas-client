@@ -32,8 +32,6 @@ class TNASConnection:
         else:
             print("Error Connecting to TNAS, Result Code: {}".format(response_data['resultCode']))
 
-        print(response_data)
-
     def generate_request_xml(self, tnas_method_name, params):
         # Constructs a function call into the XML format required by TNAS
         xml = '<?xml version="1.0" encoding="ISO-8859-1"?>' \
