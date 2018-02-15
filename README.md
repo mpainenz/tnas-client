@@ -27,4 +27,4 @@ For Windows users:
 
 # Usage
 
-Take a look at the [example.py] file 
+Take a look at the [example.py](example.py) file 
