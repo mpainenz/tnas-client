@@ -1,8 +1,9 @@
 # TNAS-Client
-This project contains a very simple, easy to use Python 3.6 TNAS Client.
+This project contains a very simple, easy to use, TNAS API Client written in Python 3.6.
+
 TNAS is used for Toll Free Number Portability in New Zealand.
 
-This library uses no third-party libraries, and supports TLS1.2 SSL. 
+This library requires no third-party libraries, and supports TLS1.2 SSL. 
 
 For Windows users:
   - Install [Python 3.6](https://www.python.org/downloads/release/python-360/) or later
